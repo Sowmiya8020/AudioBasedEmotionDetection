@@ -6,7 +6,7 @@ Project Structure:
 audio-emotion-classification/
 │
 ├── notebook.ipynb            # Training, preprocessing & prediction pipeline
-├── Dataset_info.pdf          # Dataset description & details.
+├── Dataset_info.pdf          # Dataset description & details
 ├── requirements.txt          # Required Python libraries
 └── images/                   # Sample spectrograms, output images
 
